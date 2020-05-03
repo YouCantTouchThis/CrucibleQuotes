@@ -1,0 +1,17 @@
+var cayde_lib = [
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/Cayde+6+intuitive+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/Cayde+Audio1+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/am_i_right+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/cayde_6+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/cayde_6_radiochatter+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/cayde_6_ramen_time+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/cayde_here_we_go+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/cayde_orders_a_pie+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/cayde_quote+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/destiny_regicide+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/gun_i_borrow+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/hugs+(1)+(1).mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/i+gotta+go+see+about+a+ship.mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/miss+the+little+guy.mp3\"/>",
+  "<audio src=\"https://caydequotesonlycayde.s3.us-east-2.amazonaws.com/told+you+my+stealth+drive+would+work.mp3\"/>"
+  ];
