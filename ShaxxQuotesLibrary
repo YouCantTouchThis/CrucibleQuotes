@@ -1,0 +1,23 @@
+var shaxx_lib = [ 
+      "<audio src=\"https://shaxxquotes.s3.us-east-2.amazonaws.com/lxnonBu5-stand-tall-guardian-this-battle-is-lost-but-their-will-be-others+(1).mp3\"/>",
+      "<audio src=\"https://shaxxquotes.s3.us-east-2.amazonaws.com/jd1RAcCC-guardians-are-measured-by-their-ability-to-come-back-from-defeat-so-stand-fight+(1).mp3\"/>", 
+      "<audio src=\"https://shaxxquotes.s3.us-east-2.amazonaws.com/idzplXpH-you-have-the-fortitude-and-persistance-of-lord-salidin-you-can-tell-him-i-said-that+(1).mp3\"/>",
+      "<audio src=\"https://shaxxquotes.s3.us-east-2.amazonaws.com/OMsDcbcE-fight-like-a-demon-for-these-zones-bring-your-friends-i-need-more-like-you+(1).mp3\"/>",
+      "<audio src=\"https://shaxxquotes.s3.us-east-2.amazonaws.com/LVKANDtb-what-where-s-my-catharsis-boo-boooo+(1).mp3\"/>",
+      "<audio src=\"https://caydedialogues.s3.us-east-2.amazonaws.com/are+you+trying+to+kill+me%2C+just+win.mp3\"/>",
+      "<audio src=\"https://shaxxquotes.s3.us-east-2.amazonaws.com/seventh+column+(1).mp3\"/>",
+      "<audio src=\"https://shaxxquotes.s3.us-east-2.amazonaws.com/you+can+fight+by+my+side+any+time+guardian+(1).mp3\"/>",
+      "<audio src=\"https://shaxxquotes.s3.us-east-2.amazonaws.com/YEEEEEEEESS+(1).mp3\"/>",
+      "<audio src=\"https://shaxxquotes.s3.us-east-2.amazonaws.com/you+may+be+defeated+but+you+must+never+surrender+(1)+(1).mp3\"/>",
+      "<audio src=\"https://shaxxquotes.s3.us-east-2.amazonaws.com/was+that+all+of+them+that+was+all+of+them+(1).mp3\"/>",
+      "<audio src=\"https://shaxxquotesnew.s3.us-east-2.amazonaws.com/are+you+trying+to+play+me+arcite+take+my+sword+im+going+in+there.mp3\"/>",
+      "<audio src=\"https://shaxxquotesnew.s3.us-east-2.amazonaws.com/did+no+one+tell+you+two+monsters+that+crimson+days+are+a+holiday+celebration+you+beat+the+taste+out+of+them+now+do+it+again.mp3\"/>",
+      "<audio src=\"https://shaxxquotesnew.s3.us-east-2.amazonaws.com/friendship+is+a+blunt+instrument+use+it+to+crush+your+enemies.mp3\"/>",
+      "<audio src=\"https://shaxxquotesnew.s3.us-east-2.amazonaws.com/go+make+them+cry.mp3\"/>",
+      "<audio src=\"https://shaxxquotesnew.s3.us-east-2.amazonaws.com/listen+if+anyone+ever+asks+you+two+who+brought+you+together+you+tell+them+it+was+me.mp3\"/>",
+      "<audio src=\"https://shaxxquotesnew.s3.us-east-2.amazonaws.com/some+people+think+i+dont+like+hunters+i+dont+i+love+them.mp3\"/>",
+      "<audio src=\"https://shaxxquotesnew.s3.us-east-2.amazonaws.com/welcome+to+crimson+days+where+we+cherish+our+partners+and+annihilate+the+opposition.mp3\"/>",
+      "<audio src=\"https://shaxxquotesnew.s3.us-east-2.amazonaws.com/you+two+remind+me+of+lady+efrideet+and+myself+she+was+my+partner+once+she+likes+to+throw+titans+and+some+titans+like+to+be+thrown.mp3\"/>",
+      "<audio src=\"https://shaxxquotesnew.s3.us-east-2.amazonaws.com/you+two+remind+me+of+lord+saladin+and+myself+he+was+my+partner+once+no+one+can+best+his+fist+of+havoc+except+me.mp3\"/>",
+      "<audio src=\"https://shaxxquotesnew.s3.us-east-2.amazonaws.com/your+opponent+is+single+now+finish+this.mp3\"/>"
+      ];
