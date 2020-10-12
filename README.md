@@ -31,6 +31,10 @@ You can find it here: https://aws.amazon.com/apache-2-0/
 
 I want to acknowledge IOT Wonders for teaching me Alexa Development. The code started of as something they had made and then using what they taught me and some of thier code I was able to make this skill!
 
-You can find thier udemy course here: https://www.udemy.com/course/comprehensive-alexa-skill-development-course/
+You can find their udemy course here: https://www.udemy.com/course/comprehensive-alexa-skill-development-course/
 
 I want to acknowledge PurpleBooth for this template which I copied and then modified a bit :)
+
+## Note
+
+The files are stored under different branches. 
